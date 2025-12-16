@@ -1,0 +1,33 @@
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\bin\Debug\net9.0\appsettings.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\bin\Debug\net9.0\Spletne storive.staticwebassets.endpoints.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\bin\Debug\net9.0\Spletne storive.exe
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\bin\Debug\net9.0\Spletne storive.deps.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\bin\Debug\net9.0\Spletne storive.runtimeconfig.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\bin\Debug\net9.0\Spletne storive.dll
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\bin\Debug\net9.0\Spletne storive.pdb
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.csproj.AssemblyReference.cache
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.AssemblyInfoInputs.cache
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.AssemblyInfo.cs
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.csproj.CoreCompileInputs.cache
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.sourcelink.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\scopedcss\bundle\Spletne storive.styles.css
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne .190A0778.Up2Date
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.dll
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\refint\Spletne storive.dll
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.pdb
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\Spletne storive.genruntimeconfig.cache
+C:\Users\anejl\OneDrive - Univerza v Mariboru\Documents\Faks\Drugi Letnik\ARS\Spletne storive\Spletne storive\obj\Debug\net9.0\ref\Spletne storive.dll
