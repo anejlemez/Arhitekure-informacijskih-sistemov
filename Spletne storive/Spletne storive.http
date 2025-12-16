@@ -1,0 +1,6 @@
+@Spletne_storive_HostAddress = http://localhost:5202
+
+GET {{Spletne_storive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
