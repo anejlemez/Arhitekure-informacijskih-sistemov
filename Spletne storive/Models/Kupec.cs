@@ -1,6 +1,6 @@
 namespace Spletne_storive.Models;
 
-class Kupec
+public class Kupec
 {
     public int Id { get; set; }
     public string Ime { get; set; }

@@ -1,6 +1,6 @@
 namespace Spletne_storive.Models;
 
-class Avto
+public class Avto
 {
     public int Id { get; set; }
     public string Znamka { get; set; }

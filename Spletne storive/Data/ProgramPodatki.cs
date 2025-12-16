@@ -1,7 +1,7 @@
 using Spletne_storive.Models;
 namespace Spletne_storive.Podatki;
 
-class ProgramPodatki
+public static class ProgramPodatki
 {
     public static List<Kupec> Kupci = new()
     {
