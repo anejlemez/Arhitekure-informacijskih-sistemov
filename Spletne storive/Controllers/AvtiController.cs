@@ -9,9 +9,6 @@ namespace Spletne_storive.Controllers;
 [Route("api/avti")]
 public class AvtiController : ControllerBase
 {
-    // GET /api/avti
-    // GET /api/avti?znamka=VW
-    // GET /api/avti?znamka=VW&model=Golf
     [HttpGet]
     public ActionResult<List<Avto>> GetAll([FromQuery] string? znamka, [FromQuery] string? model)
     {
@@ -26,7 +23,6 @@ public class AvtiController : ControllerBase
         return Ok(query.ToList());
     }
 
-    // GET /api/avti/{id}
     [HttpGet("{id}")]
     public ActionResult<Avto> GetById(int id)
     {
@@ -35,7 +31,6 @@ public class AvtiController : ControllerBase
         return Ok(avto);
     }
 
-    // POST /api/avti  (en avto)
     [HttpPost]
     public ActionResult<Avto> Create([FromBody] Avto novAvto)
     {
@@ -54,7 +49,6 @@ public class AvtiController : ControllerBase
         return CreatedAtAction(nameof(GetById), new { id = novAvto.Id }, novAvto);
     }
 
-    // POST /api/avti/list  (seznam avtov)
     [HttpPost("list")]
     public ActionResult<List<Avto>> CreateMany([FromBody] List<Avto> noviAvti)
     {
@@ -78,7 +72,6 @@ public class AvtiController : ControllerBase
         return Ok(ProgramPodatki.Avti);
     }
 
-    // PUT /api/avti/{id}
     [HttpPut("{id}")]
     public ActionResult<Avto> Update(int id, [FromBody] Avto posodobljen)
     {
@@ -99,7 +92,7 @@ public class AvtiController : ControllerBase
         return Ok(avto);
     }
 
-    // DELETE /api/avti/{id}
+    
     [HttpDelete("{id}")]
     public IActionResult Delete(int id)
     {

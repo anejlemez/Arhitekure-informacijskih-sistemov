@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anejl\\OneDrive - Univerza v Mariboru\\Documents\\Faks\\Drugi Letnik\\ARS\\Spletne storive\\Spletne storive\\Spletne storive.csproj": {}
+    "C:\\Users\\anejl\\Documents\\Naloga1_arhitekture\\Arhitekure-informacijskih-sistemov\\Spletne storive\\Spletne storive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anejl\\OneDrive - Univerza v Mariboru\\Documents\\Faks\\Drugi Letnik\\ARS\\Spletne storive\\Spletne storive\\Spletne storive.csproj": {
+    "C:\\Users\\anejl\\Documents\\Naloga1_arhitekture\\Arhitekure-informacijskih-sistemov\\Spletne storive\\Spletne storive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anejl\\OneDrive - Univerza v Mariboru\\Documents\\Faks\\Drugi Letnik\\ARS\\Spletne storive\\Spletne storive\\Spletne storive.csproj",
+        "projectUniqueName": "C:\\Users\\anejl\\Documents\\Naloga1_arhitekture\\Arhitekure-informacijskih-sistemov\\Spletne storive\\Spletne storive.csproj",
         "projectName": "Spletne storive",
-        "projectPath": "C:\\Users\\anejl\\OneDrive - Univerza v Mariboru\\Documents\\Faks\\Drugi Letnik\\ARS\\Spletne storive\\Spletne storive\\Spletne storive.csproj",
+        "projectPath": "C:\\Users\\anejl\\Documents\\Naloga1_arhitekture\\Arhitekure-informacijskih-sistemov\\Spletne storive\\Spletne storive.csproj",
         "packagesPath": "C:\\Users\\anejl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anejl\\OneDrive - Univerza v Mariboru\\Documents\\Faks\\Drugi Letnik\\ARS\\Spletne storive\\Spletne storive\\obj\\",
+        "outputPath": "C:\\Users\\anejl\\Documents\\Naloga1_arhitekture\\Arhitekure-informacijskih-sistemov\\Spletne storive\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,7 +45,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -53,6 +54,12 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.1, )"
             }
           },
           "imports": [
@@ -66,6 +73,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -74,7 +99,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

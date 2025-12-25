@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "rSjTUmuHdE4=",
+  "dgSpecHash": "JPjhDMf/vhk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\anejl\\OneDrive - Univerza v Mariboru\\Documents\\Faks\\Drugi Letnik\\ARS\\Spletne storive\\Spletne storive\\Spletne storive.csproj",
+  "projectFilePath": "C:\\Users\\anejl\\Documents\\Naloga1_arhitekture\\Arhitekure-informacijskih-sistemov\\Spletne storive\\Spletne storive.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anejl\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
-    "C:\\Users\\anejl\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\anejl\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\10.0.1\\microsoft.entityframeworkcore.tools.10.0.1.nupkg.sha512",
+    "C:\\Users\\anejl\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\anejl\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\anejl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\anejl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
+    "C:\\Users\\anejl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
   ],
   "logs": []
 }

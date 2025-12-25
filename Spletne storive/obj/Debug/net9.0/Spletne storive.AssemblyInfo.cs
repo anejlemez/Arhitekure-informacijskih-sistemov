@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Spletne storive")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6edfb42c96f946df23b1ca6f27aecc8a2239e81b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06bf65ac4db508b77dcbf04b678b15ae43219faf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Spletne storive")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Spletne storive")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
